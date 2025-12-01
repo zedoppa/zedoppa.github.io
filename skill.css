@@ -94,7 +94,7 @@ body{
 
 
 #Skill-HTML {
-    width: 90%;
+    width: 80%;
     border-radius:20px;
     animation: Animate-HTML 4s;
     -webkit-animation: Animate-HTML 4s;
@@ -109,25 +109,25 @@ body{
     width: 10px;
 }
 to {
-    width: 90%}
+    width: 80%}
 }@-webkit-keyframes Animate-HTML {
     from {
     width: 10px;
 }
 to {
-    width: 90%}
+    width: 80%}
 }@-moz-keyframes Animate-HTML {
     from {
     width: 10px;
 }
 to {
-    width: 90%}
+    width: 80%}
 }@-o-keyframes Animate-HTML {
     from {
     width: 10px;
 }
 to {
-    width: 90%}
+    width: 80%}
 }#Skill-CSS {
     animation: Animate-CSS 5s;
     -webkit-animation: Animate-CSS 5s;
@@ -163,36 +163,36 @@ to {
 }
 to {
     width: 70%}
-}#Skill-Python {
+}#Skill-Unity {
     border-radius:20px;
-    animation: Animate-Python 5s;
-    -webkit-animation: Animate-Python 5s;
-    -moz-animation: Animate-Python 5s;
-    -o-animation: Animate-Python 5s;
+    animation: Animate-Unity 5s;
+    -webkit-animation: Animate-Unity 5s;
+    -moz-animation: Animate-Unity 5s;
+    -o-animation: Animate-Unity 5s;
     width: 80%;
     height: 50px;
     position: absolute;
     background-color: #6c63ff;
 }
-@keyframes Animate-Python {
+@keyframes Animate-Unity {
     from {
     width: 10px;
 }
 to {
     width: 80%}
-}@-webkit-keyframes Animate-Python {
+}@-webkit-keyframes Animate-Unity {
     from {
     width: 10px;
 }
 to {
     width: 80%}
-}@-moz-keyframes Animate-Python {
+}@-moz-keyframes Animate-Unity {
     from {
     width: 10px;
 }
 to {
     width: 80%}
-}@-o-keyframes Animate-Python {
+}@-o-keyframes Animate-Unity {
     from {
     width: 10px;
 }
@@ -235,48 +235,48 @@ to {
     width: 65%}
 }
 
-#Skill-C {
-    animation: Animate-C 4s;
-    -webkit-animation: Animate-C 4s;
-    -moz-animation: Animate-C 4s;
-    -o-animation: Animate-C 4s;
+#Skill-CSharp {
+    animation: Animate-CSharp 4s;
+    -webkit-animation: Animate-CSharp 4s;
+    -moz-animation: Animate-CSharp 4s;
+    -o-animation: Animate-CSharp 4s;
     border-radius:20px;
-    width: 80%;
+    width: 65%;
     height: 50px;
     position: absolute;
     background-color: #6c63ff;
 }
-@keyframes Animate-C {
+@keyframes Animate-CSharp {
     from {
     width: 10px;
 }
 to {
-    width: 80%}
-}@-webkit-keyframes Animate-C {
+    width: 65%}
+}@-webkit-keyframes Animate-CSharp {
     from {
     width: 10px;
 }
 to {
-    width: 80%}
-}@-moz-keyframes Animate-C {
+    width: 65%}
+}@-moz-keyframes Animate-CSharp {
     from {
     width: 10px;
 }
 to {
-    width: 80%}
-}@-o-keyframes Animate-C {
+    width: 65%}
+}@-o-keyframes Animate-CSharp {
     from {
     width: 10px;
 }
 to {
-    width: 80%}
+    width: 65%}
 }#Skill-Cplus {
-    animation: Animate-Cplus4s;
+    animation: Animate-Cplus 4s;
     -webkit-animation: Animate-Cplus 4s;
     -moz-animation: Animate-Cplus 4s;
     -o-animation: Animate-Cplus 4s;
     border-radius:20px;
-    width: 85%;
+    width: 40%;
     height: 50px;
     position: absolute;
     background-color: #6c63ff;
@@ -286,32 +286,32 @@ to {
     width: 10px;
 }
 to {
-    width: 85%}
+    width: 40%}
 }@-webkit-keyframes Animate-Cplus {
     from {
     width: 10px;
 }
 to {
-    width: 85%}
+    width: 40%}
 }@-moz-keyframes Animate-Cplus {
     from {
     width: 10px;
 }
 to {
-    width: 85%}
+    width: 40%}
 }@-o-keyframes Animate-Cplus {
     from {
     width: 10px;
 }
 to {
-    width: 85%}
+    width: 40%}
 }#Skill-SQL {
     animation: Animate-SQL 4s;
     -webkit-animation: Animate-SQL 4s;
     -moz-animation: Animate-SQL 4s;
     -o-animation: Animate-SQL 4s;
     border-radius:20px;
-    width: 80%;
+    width: 50%;
     height: 50px;
     position: absolute;
     background-color: #6c63ff;
@@ -321,25 +321,25 @@ to {
     width: 10px;
 }
 to {
-    width: 80%}
+    width: 50%}
 }@-webkit-keyframes Animate-SQL {
     from {
     width: 10px;
 }
 to {
-    width: 80%}
+    width: 50%}
 }@-moz-keyframes Animate-SQL {
     from {
     width: 10px;
 }
 to {
-    width: 80%}
+    width: 50%}
 }@-o-keyframes Animate-SQL {
     from {
     width: 10px;
 }
 to {
-    width: 80%}
+    width: 50%}
 }
 .Skill-Area {
     z-index: 1;
